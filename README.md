@@ -1,1 +1,1 @@
-# one
+#Author: Raxmonberganov Temurbek
